@@ -13,7 +13,7 @@
 # 和风天气apikey
 "weather_key": "2c8fd131c77444749fb7a5c5b6fd729a",
 # 天行数据apikey
-"tian_api": "103ff6f92f039a2cbd42435a9dbbc466 ",
+"tian_api": "103ff6f92f039a2cbd42435a9dbbc466",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
 "region": "秦都区",
 # 生日1
